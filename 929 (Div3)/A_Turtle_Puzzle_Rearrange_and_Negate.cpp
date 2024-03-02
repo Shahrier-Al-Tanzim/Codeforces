@@ -21,7 +21,7 @@ using ordered_set = tree<T, null_type, less_equal<T>, rb_tree_tag, tree_order_st
 #define all(v) v.begin(), v.end() 
 
 void solve() {
-    int n; cin >> n;
+   int n; cin >> n;
     int cnt = 0;
     for(int i = 0; i < n; i++) {
         int a; cin >> a;
@@ -41,4 +41,4 @@ signed main() {
         // cout << "Case " << i << ":" << endl;
         solve();
     }
-} 	
+}
