@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.ejs": "html",
+        "chrono": "cpp",
+        "span": "cpp",
+        "iostream": "cpp"
+    }
+}
